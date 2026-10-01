@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZenWood-Sudoku</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_medium">Medium</string>
+    <string name="difficulty_master">Master</string>
+    <string name="level_number">Level %1$d</string>
+    <string name="completed_count">%1$d/%2$d</string>
+    <string name="play_level">Play %1$d</string>
+    <string name="continue_level">Continue %1$d</string>
+    <string name="all_clear">Done</string>
+    <string name="back">Back</string>
+    <string name="undo">Undo</string>
+    <string name="erase">Erase</string>
+    <string name="pencil">Notes</string>
+    <string name="hint_with_count">Hint, %1$d left</string>
+    <string name="hint_watch_ad">Hint, watch a short video</string>
+    <string name="ad_banner_placeholder">Ad</string>
+    <string name="loading_levels">Preparing puzzles</string>
+    <string name="import_failed">Could not prepare puzzles</string>
+    <string name="retry">Retry</string>
+    <string name="level_complete">Complete</string>
+    <string name="home">Home</string>
+    <string name="level_missing">Level unavailable</string>
+    <string name="cell_empty">Row %1$d, column %2$d, empty</string>
+    <string name="cell_value">Row %1$d, column %2$d, %3$d</string>
+    <string name="rewarded_ad_unavailable">Video hint is not available yet</string>
+    <string name="digit_button">%1$d</string>
+</resources>
